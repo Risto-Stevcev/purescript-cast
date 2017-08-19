@@ -1,5 +1,6 @@
 {
   "name": "purescript-cast",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
