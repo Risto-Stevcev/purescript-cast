@@ -1,6 +1,10 @@
 {
   "name": "purescript-cast",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Risto-Stevcev/purescript-cast.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
